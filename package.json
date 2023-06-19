@@ -1,0 +1,15 @@
+{
+  "name": "my-projects",
+  "version": "1.0.0",
+  "description": "marks assigning file,speed detecting file &amp; net salary calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamesirungume/my-project/new/main?readme=1"
+  },
+  "author": "james",
+  "license": "MIT"
+}
