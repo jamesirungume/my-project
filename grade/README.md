@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-# project2
-speed detecting program
-=======
-# MY-PROJECTS
-NET SALARY CALCULATOR PROGRAM,GRADING PROGRAM,SPEEDDETECTOR.
->>>>>>> 24ce2ad7948ee2ab2c78a715e4927c468faff121

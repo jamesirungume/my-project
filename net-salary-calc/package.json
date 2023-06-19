@@ -1,0 +1,19 @@
+{
+  "name": "salary",
+  "version": "1.0.0",
+  "description": "salaryCalculator",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesirungume/project3.git"
+  },
+  "author": "james",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamesirungume/project3/issues"
+  },
+  "homepage": "https://github.com/jamesirungume/project3#readme"
+}
