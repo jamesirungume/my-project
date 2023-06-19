@@ -1,0 +1,25 @@
+{
+  "name": "nike",
+  "version": "1.0.0",
+  "description": "ours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesirungume/promeject.git"
+  },
+  "keywords": [
+    "ours"
+  ],
+  "author": "james",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesirungume/promeject/issues"
+  },
+  "homepage": "https://github.com/jamesirungume/promeject#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
